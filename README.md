@@ -1,51 +1,21 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# Podcast: Love Advice from an AI 🎙️🤖💔
 
-## 🚀 Introdução
+## 📒 Description
+In this quick 8-second episode, an artificial intelligence steps into the role of a love therapist, delivering a brutally honest yet hilarious piece of advice. It's a perfect satire of modern relationships, with a robotic twist of wisdom.
 
-> Woooow! Look at this 👀
+## 🤖 Technologies Used
+- Generative AI **[ChatGPT](https://chat.openai.com)** for scripting the AI’s speech;
+- Generative Gemini **[VEO3](https://gemini.google.com)** for voice and video;
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+## 🧐 Creation Process
+ChatGPT was used to write the short and funny line delivered by the AI. Google VEO 3 brought the AI voice and video to life.
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+## 🚀 Results
+The final video provides instant engagement with a comical and relatable message. It's perfect for short-form content platforms such as TikTok, Instagram Reels or YouTube Shorts.
+Two videos were made, one with a robot and one with a person
 
-### Objetivos
+[ROBO VIDEO HERE]()
+[PERSON VIDEO HERE]()
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
-
-## 📒 Descrição
-Breve descrição do seu projeto
-
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
-## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+## 💭 Reflection
+This project highlights how even a few seconds of generative AI content can entertain, connect with people, and make them laugh. Humor proves to be a powerful bridge between humans and machines.
