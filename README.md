@@ -14,8 +14,8 @@ ChatGPT was used to write the short and funny line delivered by the AI. Google V
 The final video provides instant engagement with a comical and relatable message. It's perfect for short-form content platforms such as TikTok, Instagram Reels or YouTube Shorts.
 Two videos were made, one with a robot and one with a person
 
-[ROBO VIDEO HERE]()
-[PERSON VIDEO HERE]()
+[ROBO VIDEO HERE](https://github.com/luisstarlino/GIT-GenerativeIAChallenge/blob/main/videos/Real_Robot.mp4)
+[PERSON VIDEO HERE](https://github.com/luisstarlino/GIT-GenerativeIAChallenge/blob/main/videos/Real_Person.mp4)
 
 ## 💭 Reflection
 This project highlights how even a few seconds of generative AI content can entertain, connect with people, and make them laugh. Humor proves to be a powerful bridge between humans and machines.
